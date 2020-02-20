@@ -1,6 +1,20 @@
 # Recytech_app
 
 Primera Versiones de Recytech Flutter application.
+## InputOutput
+  
+
+    Version: 1.0.0
+    System requirement: 
+    Date of Released: 26th June 2019
+    Copyright: 2019, UNIMINUTO
+    
+    
+## Screenshots
+
+![Uniminuto-Recytech]()
+
+
 
 ## Getting Started
 
