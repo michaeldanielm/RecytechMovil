@@ -1,4 +1,4 @@
-# flutter_app
+# Recytech_app
 
 Primera Versiones de Recytech Flutter application.
 
