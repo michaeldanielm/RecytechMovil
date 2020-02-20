@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+Primera Versiones de Recytech Flutter application.
 
 ## Getting Started
 
