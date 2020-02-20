@@ -1,5 +1,7 @@
 # Recytech_app
 
+![Uniminuto-Recytech](https://raw.githubusercontent.com/michaeldanielm/RecytechMovil/master/Recytech.png)
+
 Primera Versiones de Recytech Flutter application.
 ## InputOutput
   
