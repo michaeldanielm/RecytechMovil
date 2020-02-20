@@ -12,7 +12,7 @@ Primera Versiones de Recytech Flutter application.
     
 ## Screenshots
 
-![Uniminuto-Recytech]()
+![Uniminuto-Recytech](https://raw.githubusercontent.com/michaeldanielm/RecytechMovil/master/Recyetch%20Uniminuto.jpg)
 
 
 
